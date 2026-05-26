@@ -43,5 +43,6 @@ Use these keys at any time to control the app:
 
 *(You can change these keys inside the Settings tab.)*
 
+*Special Credits to Tinytask and Informaal Task for giving me the idea to create one of my own tasks.*
 
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/63341601-161b-4d3a-b558-440999c6d0de" />
