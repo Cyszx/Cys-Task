@@ -4,7 +4,7 @@
 
 Cys Task is a simple macro recorder and player. You can use it to automate Roblox, clicker games, or any other repetitive task on your PC.
 
-Just run the `.exe` file and you are ready to go!
+Just Download the .exe from the latest release and run it.
 
 ---
 
