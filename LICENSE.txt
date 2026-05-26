@@ -1,0 +1,22 @@
+END USER LICENSE AGREEMENT (EULA)
+
+Product: Cys Task
+Author: Cyszx
+
+1. LICENSE GRANT
+The Author grants you a non-exclusive, non-transferable license to download, install, and use this software free of charge for personal or commercial use.
+
+2. RESTRICTIONS
+You strictly agree NOT to:
+- Decompile, disassemble, reverse-engineer, or attempt to derive the source code of this software.
+- Modify, adapt, or create derivative works based on this software.
+- Sell, rent, lease, sub-license, or distribute this software for monetary gain.
+
+3. OWNERSHIP
+This software is licensed, not sold. The Author retains all ownership, intellectual property rights, and copyrights to the software. 
+
+4. TERMINATION
+This license is effective until terminated. Your rights under this license will terminate automatically without notice if you fail to comply with any of its terms.
+
+5. DISCLAIMER OF WARRANTY & LIMITATION OF LIABILITY
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, INCLUDING BUT NOT LIMITED TO: SYSTEM FAILURES, LOSS OF DATA, OR OPERATIONAL DISRUPTIONS (INCLUDING ACCIDENTAL AUTOMATION ERRORS OR THIRD-PARTY SOFTWARE/GAME BANS) ARISING FROM THE USE OF THIS SOFTWARE.
